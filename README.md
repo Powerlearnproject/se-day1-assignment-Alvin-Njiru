@@ -17,8 +17,10 @@ Identify and describe at least three key milestones in the evolution of software
 
 The Birth of Software Engineering (1968) – NATO Conference
    - This milestone marked the shift from informal programming practices to a more structured engineering discipline, emphasizing methodologies, documentation, and project management.
+
 The Rise of Structured Programming (1970s-1980s)
    - This approach emphasized modular code, logical control structures (e.g., loops and conditionals instead of "goto" statements), and hierarchical design.
+
 The Agile Revolution (2001 - Present)
    - Dissatisfaction with rigid, document-heavy methodologies (like the Waterfall model) led to the Agile Manifesto in 2001, which promoted flexibility, iterative development, and collaboration.
 
@@ -35,13 +37,13 @@ Maintenance – Ongoing support, bug fixes, updates, and improvements are made t
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
                         Waterfall Methodology	                            Agile Methodology
-Approach	              -Sequential, phase-by-phase	                      -Iterative, incremental
-Flexibility	            -Rigid, hard to change requirements	              -Highly adaptable to changes
-Customer Involvement	  -Minimal after initial planning	                  -Continuous feedback and involvement
-Testing	D               -one after development is complete	              -Continuous testing throughout development
-Delivery	              -Delivered at the end of the project	            -Delivered in small, functional increments
-Documentation	          -Heavy documentation required	                    -Lightweight documentation, focus on working software
-Best for	              -Well-defined projects with stable requirements 	-Dynamic projects with evolving requirements
+Approach	               -Sequential, phase-by-phase	                          -Iterative, incremental
+Flexibility	            -Rigid, hard to change requirements	                    -Highly adaptable to changes
+Customer Involvement	   -Minimal after initial planning	                       -Continuous feedback and involvement
+Testing                 -one after development is complete	                    -Continuous testing throughout development
+Delivery	               -Delivered at the end of the project	                 -Delivered in small, functional increments
+Documentation	         -Heavy documentation required	                          -Lightweight documentation, focus on working software
+Best for	               -Well-defined projects with stable requirements    	  -Dynamic projects with evolving requirements
 
 Waterfall is appropriate for:
 Government or regulatory projects – Where strict documentation and compliance are required.
