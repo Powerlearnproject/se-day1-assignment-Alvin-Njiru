@@ -181,8 +181,11 @@ Improved Prompt:
 "Explain how artificial intelligence is transforming the healthcare industry, focusing on diagnostic tools and patient care."
 
 Why the Improved Prompt is More Effective:
+
 More Specific: It narrows the topic from general "technology" to "artificial intelligence in healthcare."
+
 Clear Focus: It directs the AI to discuss diagnostic tools and patient care rather than any random aspect of AI.
+
 Concise and Goal-Oriented: It eliminates ambiguity, ensuring a relevant and informative response.
 
 
