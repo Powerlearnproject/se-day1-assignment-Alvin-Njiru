@@ -27,11 +27,17 @@ The Agile Revolution (2001 - Present)
 List and briefly explain the phases of the Software Development Life Cycle.
 
 Planning – The project’s objectives, scope, risks, and feasibility are analyzed. Stakeholders define requirements and allocate resources.
+
 Requirement Analysis – Detailed functional and non-functional requirements are gathered and documented. This phase ensures that the software meets user needs.
+
 Design – Architects and developers create system architecture, database structures, and user interfaces. High-level and low-level designs are prepared to guide development.
+
 Implementation (Coding) – Developers write code based on the design specifications. Programming languages, frameworks, and tools are used to build the software.
+
 Testing – The software undergoes various tests (unit, integration, system, and acceptance testing) to identify and fix bugs, ensuring it meets requirements.
+
 Deployment – The tested software is released to users. This can involve installation, configuration, and making the system operational in a real-world environment.
+
 Maintenance – Ongoing support, bug fixes, updates, and improvements are made to keep the software functional, secure, and up-to-date.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
