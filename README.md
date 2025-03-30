@@ -36,14 +36,20 @@ Maintenance – Ongoing support, bug fixes, updates, and improvements are made t
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
-                        Waterfall Methodology	                            Agile Methodology
-Approach	               -Sequential, phase-by-phase	                          -Iterative, incremental
-Flexibility	            -Rigid, hard to change requirements	                    -Highly adaptable to changes
-Customer Involvement	   -Minimal after initial planning	                       -Continuous feedback and involvement
-Testing                 -one after development is complete	                    -Continuous testing throughout development
-Delivery	               -Delivered at the end of the project	                 -Delivered in small, functional increments
-Documentation	         -Heavy documentation required	                          -Lightweight documentation, focus on working software
-Best for	               -Well-defined projects with stable requirements    	  -Dynamic projects with evolving requirements
+                        
+Approach: Waterfall Methodology is sequential, phase-by-phase while Agile Methodology is iterative, incremental.
+
+Flexibility: Waterfall Methodology is rigid, hard to change requirements while Agile Methodology is highly adaptable to changes.
+
+Customer Involvement: In Waterfall Methodology customer involvement is minimal after initial planning	while in Agile Methodology there is continuous feedback and involvement.
+
+Testing: Waterfall Methodology. One after development is complete. Agile Methodology. Continuous testing throughout development.
+
+Delivery: Waterfall Methodology. Delivered at the end of the project. Agile Methodology. Delivered in small, functional increments.
+
+Documentation: In Waterfall Methodology heavy documentation is required. Agile Methodology. Lightweight documentation, focus on working software.
+
+Best for: Waterfall Methodology. Well-defined projects with stable requirements. Agile Methodology. Dynamic projects with evolving requirements.
 
 Waterfall is appropriate for:
 Government or regulatory projects – Where strict documentation and compliance are required.
@@ -60,6 +66,7 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
 Software Developer
 
 Role: Designs, writes, and maintains code for software applications.
+
 Responsibilities:
 -Develop software based on design and requirements.
 -Debug and troubleshoot code issues.
@@ -70,6 +77,7 @@ Responsibilities:
 Quality Assurance Engineer
 
 Role: Ensures the software meets quality standards and is free of critical defects.
+
 Responsibilities:
 -Design and execute test plans (manual and automated).
 -Identify, document, and track bugs.
@@ -91,23 +99,31 @@ Responsibilities:
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
 Integrated Development Environments (IDEs)
+
 Importance: IDEs enhance productivity by providing a centralized environment for coding, debugging, and testing. They include features like syntax highlighting, code completion, debugging tools, and build automation.
+
 Example:
 Visual Studio Code (VS Code): A lightweight, extensible IDE widely used for web and application development.
 
 Version Control Systems (VCS)
+
 Importance: VCS allows teams to track changes, collaborate efficiently, and maintain code history. It helps prevent conflicts, enables rollback to previous versions, and ensures code integrity.
+
 Example:
 Git: A distributed VCS widely used with platforms like GitHub, GitLab, and Bitbucket.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
 Keeping Up with Rapidly Changing Technologies
+
 Challenge: New programming languages, frameworks, and tools emerge frequently.
+
 Solution: Engage in continuous learning through online courses, tech blogs, and hands-on projects.
 
 Collaboration and Communication Issues
+
 Challenge: Miscommunication among team members can cause misunderstandings and delays.
+
 Solution: Use collaboration tools like Slack, Jira, or Trello, and conduct regular stand-up meetings.
 
 Meeting Deadlines and Managing Workload
@@ -144,8 +160,11 @@ Prompt engineering is the practice of designing and refining input prompts to op
 Importance of Prompt Engineering in AI Interaction
 
 Improves Response Quality - Well-crafted prompts lead to more precise, informative, and contextually relevant answers.
+
 Enhances AI Efficiency - Properly framed prompts reduce the need for follow-up clarifications, saving time and effort.
+
 Enables Customization and Control  - Prompt engineering helps users fine-tune AI behavior for different use cases, such as coding, writing, or data analysis.
+
 Optimizes AI Applications Across Industries - Used in chatbots, content creation, and automated customer support.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
